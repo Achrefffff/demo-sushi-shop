@@ -1,0 +1,9 @@
+# Scripts de build, captures et fichiers sources bruts
+tools/
+images/image-sosa/
+images/image-sushishop/* (1).webp
+
+# Fichiers système / cache Python
+.DS_Store
+Thumbs.db
+__pycache__/
